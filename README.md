@@ -29,5 +29,7 @@ AppLogin
 3. Executar o aplicativo
 4. Realizar cadastro
 5. Fazer login
+
+desenvolvido por gaby
 💖 Desenvolvido por
 Gaby Mello
